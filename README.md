@@ -1,4 +1,4 @@
-### Hi, 👋
+### Hey! 👋
 #### 'm a Web Designer who started his journey as a web Designer and fell in love with: - ( Shopify || WordPress || Wix)
 ![Web Developer & Designer - ( Shopify || WordPress || Wix)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
