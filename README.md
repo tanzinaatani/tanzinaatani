@@ -11,16 +11,16 @@ I love turning ideas into reality using the magic wand of Elementor. Whether it'
 
 ### 👨‍💻 Skills & Experience:
 
-🔹  Elementor & Shopify  
-🔹  WordPress & Wix
-🔹  Website speed increase & SEO
-🔹  Drop-shipping & Speed Optimization
-🔹  Landing Page & E-commerce Store Creation
-🔹  Website Maintenance & Website Optimisation 
+🔹 Elementor & Shopify  
+🔹 WordPress & Wix
+🔹 Website speed increase & SEO
+🔹 Drop-shipping & Speed Optimization
+🔹 Landing Page & E-commerce Store Creation
+🔹 Website Maintenance & Website Optimisation 
 
 Skills:  WordPress/  Shopify/ Wix/ SEO/ JavaScript/ HTML5/ Bootstrap/ Photoshop / Illustrator
 
-- 🔭 I’m currently working on International Marketplace Fiverr & UpWork 
+- 🔭 I’m currently working on International marketplaces Fiverr and UpWork, also I work in a (WebBattalion) Web Agency
 
 
 
