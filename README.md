@@ -1,5 +1,5 @@
-### Hi, I'm Tanzina 👋
-#### Web Developer & Designer - ( Shopify || WordPress || Wix)
+### Hi, 👋
+#### 'm a Web Designer who started his journey as a web Designer and fell in love with: - ( Shopify || WordPress || Wix)
 ![Web Developer & Designer - ( Shopify || WordPress || Wix)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 ### 🚀 About me:
@@ -8,12 +8,12 @@ I'm a web developer and designer. Passionate about creating error-free websites 
 
 ### 👨‍💻 Skills & Experience:
 
-🔹 Elementor & Shopify  
-🔹 WordPress & Wix
-🔹 Website speed increase & SEO
-🔹 Drop-shipping & Speed Optimization
-🔹 Landing Page & E-commerce Store Creation
-🔹 Website Maintenance & Website Optimisation 
+✅ WordPress 
+✅ Shopify
+✅ Elementor 
+✅ WIX
+✅ SEO
+
 
 Skills:  WordPress/  Shopify/ Wix/ SEO/ JavaScript/ HTML5/ Bootstrap/ Photoshop / Illustrator
 
