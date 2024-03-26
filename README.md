@@ -4,20 +4,27 @@
 
 ### 🚀 About me:
 
-I'm a web developer and designer. Passionate about creating error-free websites with 100% client satisfaction I specialize in creating websites that look good and help increase online business presence, growth, conversions, and sales. I love turning ideas into reality using the magic wand of Elementor. Whether it's a sleek landing page or a dynamic portfolio. In the world of e-commerce, Shopify is my canvas but Most of the time I work with WordPress & Wix. Over the years, I have built around 200 websites for my clients. I pride myself on doing quality work and maintaining excellent communication. I am strategic, and goal-oriented, and always work with an end goal in mind.
+Intro & Achievements:
+==================
+🔹 Hi, I am Tanzina: A dedicated and experienced web designer. With over 5 years of experience as a General Virtual Assistant with a passion for creating high-quality website designs that are functional, visually appealing, and user-friendly. I enable businesses to thrive in the digital world by creating exceptional branding packages and high-quality websites for my clients.
 
-### 👨‍💻 Skills & Experience:
-
-✅ WordPress 
-✅ Shopify
-✅ Elementor 
-✅ WIX
-✅ SEO
-
-
-Skills:  WordPress/  Shopify/ Wix/ SEO/ JavaScript/ HTML5/ Bootstrap/ Photoshop / Illustrator
+Expertise / Skill Sets:
+=================
+🔹 Elementor & Shopify
+🔹 WordPress & Wix Expert
+🔹 Drop-shipping Exert
+🔹 Paid Theme & Landing Page Customization
+🔹 Website speed increase & SEO
+🔹 Website Maintenance & Website Optimisation
+🔹 Social Media Marketer (Facebook/Instagram/Google) Advertiser
+🔹 Google Ads and GA4 Expert
+🔹 Photoshop / Illustrator
 
 - 🔭 I’m currently working on International marketplaces Fiverr and UpWork, also I work in a (WebBattalion) Web Agency
+
+- Client satisfaction is my first priority. If you need any of my services to improve your business, feel free to contact me. I will help you achieve your dreams of business success. This will put you ahead of your competitors. Let your business take to the next level. Get in touch today and let's get your project started....
+
+Thanks!!
 
 
 
