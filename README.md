@@ -1,12 +1,7 @@
 ### Hey! 👋
-#### I'm a Web Designer who started his journey as a web Designer and fell in love with: - ( Shopify || WordPress || Wix)
-![Web Developer & Designer - ( Shopify || WordPress || Wix)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 ### 🚀 About me:
 
-Intro & Achievements:
-==================
-🔹 Hi, I am Tanzina: A dedicated and experienced web designer. With over 5 years of experience as a General Virtual Assistant with a passion for creating high-quality website designs that are functional, visually appealing, and user-friendly. I enable businesses to thrive in the digital world by creating exceptional branding packages and high-quality websites for my clients.
+Hi, I am Tanzina: A dedicated and experienced web designer. With over 5 years of experience as a General Virtual Assistant with a passion for creating high-quality website designs that are functional, visually appealing, and user-friendly. I enable businesses to thrive in the digital world by creating exceptional branding packages and high-quality websites for my clients.
 
 Expertise / Skill Sets:
 =================
